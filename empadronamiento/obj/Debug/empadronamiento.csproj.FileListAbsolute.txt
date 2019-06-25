@@ -1,0 +1,31 @@
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\bin\Debug\empadronamiento.exe.config
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\bin\Debug\empadronamiento.exe
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\bin\Debug\empadronamiento.pdb
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\obj\Debug\empadronamiento.csprojResolveAssemblyReference.cache
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\obj\Debug\empadronamiento.Properties.Resources.resources
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\obj\Debug\empadronamiento.csproj.GenerateResource.Cache
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\obj\Debug\empadronamiento.exe
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\obj\Debug\empadronamiento.pdb
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\obj\Debug\empadronamiento.Empadronar.resources
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\obj\Debug\empadronamiento.Suchitepequez.resources
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\obj\Debug\empadronamiento.Guatemala.resources
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\obj\Debug\empadronamiento.Quetzaltenango.resources
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\obj\Debug\empadronamiento.Retalhuleu.resources
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\obj\Debug\empadronamiento.Sololá.resources
+c:\users\wchang\documents\visual studio 2015\Projects\Diseño\empadronamiento\obj\Debug\empadronamiento.Conteo_de_votos.resources
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\bin\Debug\empadronamiento.exe.config
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\bin\Debug\empadronamiento.exe
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\bin\Debug\empadronamiento.pdb
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\obj\Debug\empadronamiento.csprojAssemblyReference.cache
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\obj\Debug\empadronamiento.Conteo_de_votos.resources
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\obj\Debug\empadronamiento.Empadronar.resources
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\obj\Debug\empadronamiento.Guatemala.resources
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\obj\Debug\empadronamiento.Properties.Resources.resources
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\obj\Debug\empadronamiento.Quetzaltenango.resources
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\obj\Debug\empadronamiento.Retalhuleu.resources
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\obj\Debug\empadronamiento.Sololá.resources
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\obj\Debug\empadronamiento.Suchitepequez.resources
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\obj\Debug\empadronamiento.csproj.GenerateResource.cache
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\obj\Debug\empadronamiento.csproj.CoreCompileInputs.cache
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\obj\Debug\empadronamiento.exe
+C:\Users\Astrid Pacheco\Documents\Diseño\empadronamiento\obj\Debug\empadronamiento.pdb
